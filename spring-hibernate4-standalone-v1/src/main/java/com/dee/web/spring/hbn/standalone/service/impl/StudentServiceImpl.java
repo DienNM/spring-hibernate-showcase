@@ -41,7 +41,7 @@ public class StudentServiceImpl implements StudentService {
     }
 
     @Override
-    public Student save(Student student) {
+    public Student add(Student student) {
         if(student == null) {
             return null;
         }

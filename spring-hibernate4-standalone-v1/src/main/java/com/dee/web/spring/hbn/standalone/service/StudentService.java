@@ -14,7 +14,7 @@ public interface StudentService {
     
     List<Student> getAll();
     
-    Student save(Student student);
+    Student add(Student student);
     
     boolean update(Student student);
     
