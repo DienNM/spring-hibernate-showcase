@@ -25,5 +25,5 @@ Showing Spring + Hibernate 4 integration of Standalone application
     + org.springframework.orm.hibernate4.LocalSessionFactoryBean
 
 - transactionManager:
-    + Enable transaction manager: <tx:annotation-driven />
+    + Enable transaction manager: tx:annotation-driven 
     + org.springframework.orm.hibernate4.HibernateTransactionManager
