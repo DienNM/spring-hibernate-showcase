@@ -1,3 +1,3 @@
-# spring-hibernate-showcase
+# Introduction
 
-Some samples of spring - hibernate 4 intergration
+Showing Spring + Hibernate 4 integration
