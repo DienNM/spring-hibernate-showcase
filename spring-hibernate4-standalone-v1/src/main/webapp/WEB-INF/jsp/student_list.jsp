@@ -33,8 +33,7 @@
 	            <tr>
 	                <th>ID</th>
 	                <th>Email</th>
-	                <th>Full Name</th>
-	                <th>Gender</th>
+	                <th>Name</th>
 	            </tr>
 	        </thead>
 	        <tbody>
@@ -45,8 +44,7 @@
 	                        <a href="${detailUrl }">${student.id}</a>
 	                    </td>
 	                    <td>${student.email}</td>
-	                    <td>${student.fullName}</td>
-	                    <td>${student.gender}</td>
+	                    <td>${student.name}</td>
 	                </tr>
 	            </c:forEach>
 	                

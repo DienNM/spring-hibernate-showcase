@@ -24,6 +24,7 @@ public class StudentDaoImpl implements StudentDao {
 
     @SuppressWarnings("unchecked")
     @Override
+    @Transactional
     public List<StudentModel> findAll() {
         Session session = sessionFactory.getCurrentSession();
         Query query = session.createQuery("from student");
@@ -32,6 +33,7 @@ public class StudentDaoImpl implements StudentDao {
     }
 
     @Override
+    @Transactional
     public StudentModel findById(Long id) {
         Session session = sessionFactory.getCurrentSession();
         StudentModel student = (StudentModel) session.get(StudentModel.class, id);

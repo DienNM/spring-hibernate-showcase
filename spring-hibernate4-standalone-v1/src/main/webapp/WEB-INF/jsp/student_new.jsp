@@ -25,22 +25,8 @@
                 <td><form:input path="email"></form:input> </td>
             </tr>
             <tr>
-                <td>First Name (*)</td>
-                <td><form:input path="firstName"></form:input> </td>
-            </tr>
-            <tr>
-                <td>Last Name</td>
-                <td><form:input path="lastName"></form:input> </td>
-            </tr>
-            <tr>
-                <td>Date Of Birth</td>
-                <td><form:input path="dateOfBirth"></form:input> </td>
-            </tr>
-            <tr>
-                <td>Gender</td>
-                <td>
-                    <form:select path="gender" items="${genders}" />
-                </td>
+                <td>Name (*)</td>
+                <td><form:input path="name"></form:input> </td>
             </tr>
             <tr>
                 <td colspan="2">

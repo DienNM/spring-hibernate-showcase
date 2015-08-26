@@ -121,7 +121,7 @@
 				<version>9.2.11.v20150529</version>
 				<configuration>
 					<webApp>
-						<contextPath>/sample01</contextPath>
+						<contextPath>/spring-hibernate4-standalone-v01</contextPath>
 					</webApp>
 				</configuration>
 			</plugin>
@@ -132,7 +132,7 @@
 				<artifactId>tomcat7-maven-plugin</artifactId>
 				<version>2.2</version>
 				<configuration>
-					<path>/sample01</path>
+					<path>/spring-hibernate4-standalone-v01</path>
 				</configuration>
 			</plugin>
 		</plugins>

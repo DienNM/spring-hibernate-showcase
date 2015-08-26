@@ -29,20 +29,8 @@
             <td>${student.email}</td>
         </tr>
         <tr>
-            <td>First Name</td>
-            <td>${student.firstName}</td>
-        </tr>
-        <tr>
-            <td>Last Name</td>
-            <td>${student.lastName}</td>
-        </tr>
-        <tr>
-            <td>Gender</td>
-            <td>${student.gender}</td>
-        </tr>
-        <tr>
-            <td>BirthDate</td>
-            <td><fmt:formatDate value="${student.dateOfBirth}" pattern="MM/dd/yyyy"/> </td>
+            <td>Name</td>
+            <td>${student.name}</td>
         </tr>
     </table>
         
