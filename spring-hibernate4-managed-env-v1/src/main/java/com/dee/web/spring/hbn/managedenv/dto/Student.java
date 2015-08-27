@@ -1,6 +1,6 @@
-package com.dee.web.spring.hbn.standalone.dto;
+package com.dee.web.spring.hbn.managedenv.dto;
 
-import com.dee.web.spring.hbn.standalone.model.StudentModel;
+import com.dee.web.spring.hbn.managedenv.model.StudentModel;
 
 /**
  * @author dien.nguyen

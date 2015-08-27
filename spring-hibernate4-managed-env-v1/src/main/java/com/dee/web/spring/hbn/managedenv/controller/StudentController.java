@@ -1,4 +1,4 @@
-package com.dee.web.spring.hbn.standalone.controller;
+package com.dee.web.spring.hbn.managedenv.controller;
 
 import java.util.List;
 
@@ -11,8 +11,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 
-import com.dee.web.spring.hbn.standalone.dto.Student;
-import com.dee.web.spring.hbn.standalone.service.StudentService;
+import com.dee.web.spring.hbn.managedenv.dto.Student;
+import com.dee.web.spring.hbn.managedenv.service.StudentService;
 
 /**
  * @author dien.nguyen

@@ -1,8 +1,8 @@
-package com.dee.web.spring.hbn.standalone.service;
+package com.dee.web.spring.hbn.managedenv.service;
 
 import java.util.List;
 
-import com.dee.web.spring.hbn.standalone.dto.Student;
+import com.dee.web.spring.hbn.managedenv.dto.Student;
 
 /**
  * @author dien.nguyen

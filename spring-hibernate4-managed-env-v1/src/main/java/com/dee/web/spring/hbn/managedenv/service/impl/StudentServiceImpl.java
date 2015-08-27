@@ -1,4 +1,4 @@
-package com.dee.web.spring.hbn.standalone.service.impl;
+package com.dee.web.spring.hbn.managedenv.service.impl;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -6,10 +6,10 @@ import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.dee.web.spring.hbn.standalone.dao.StudentDao;
-import com.dee.web.spring.hbn.standalone.dto.Student;
-import com.dee.web.spring.hbn.standalone.model.StudentModel;
-import com.dee.web.spring.hbn.standalone.service.StudentService;
+import com.dee.web.spring.hbn.managedenv.dao.StudentDao;
+import com.dee.web.spring.hbn.managedenv.dto.Student;
+import com.dee.web.spring.hbn.managedenv.model.StudentModel;
+import com.dee.web.spring.hbn.managedenv.service.StudentService;
 
 /**
  * @author dien.nguyen

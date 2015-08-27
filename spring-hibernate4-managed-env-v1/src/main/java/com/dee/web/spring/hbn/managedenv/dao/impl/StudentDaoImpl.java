@@ -1,4 +1,4 @@
-package com.dee.web.spring.hbn.standalone.dao.impl;
+package com.dee.web.spring.hbn.managedenv.dao.impl;
 
 import java.util.List;
 
@@ -9,8 +9,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 import org.springframework.transaction.annotation.Transactional;
 
-import com.dee.web.spring.hbn.standalone.dao.StudentDao;
-import com.dee.web.spring.hbn.standalone.model.StudentModel;
+import com.dee.web.spring.hbn.managedenv.dao.StudentDao;
+import com.dee.web.spring.hbn.managedenv.model.StudentModel;
 
 /**
  * @author dien.nguyen

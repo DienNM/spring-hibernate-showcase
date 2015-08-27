@@ -1,8 +1,8 @@
-package com.dee.web.spring.hbn.standalone.dao;
+package com.dee.web.spring.hbn.managedenv.dao;
 
 import java.util.List;
 
-import com.dee.web.spring.hbn.standalone.model.StudentModel;
+import com.dee.web.spring.hbn.managedenv.model.StudentModel;
 
 /**
  * @author dien.nguyen

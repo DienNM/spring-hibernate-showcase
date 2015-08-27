@@ -1,4 +1,4 @@
-package com.dee.web.spring.hbn.standalone.model;
+package com.dee.web.spring.hbn.managedenv.model;
 
 import java.io.Serializable;
 
