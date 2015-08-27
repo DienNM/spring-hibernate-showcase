@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Service;
 
 import com.dee.web.spring.hbn.standalone.dao.StudentDao;
@@ -19,6 +20,7 @@ import com.dee.web.spring.hbn.standalone.service.StudentService;
 public class StudentServiceImpl implements StudentService {
     
     @Autowired
+    @Qualifier("studentDaoHibernateDaoSupport")
     private StudentDao studentDao;
     
     @Override

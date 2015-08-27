@@ -16,7 +16,7 @@ import com.dee.web.spring.hbn.standalone.model.StudentModel;
  * @author dien.nguyen
  **/
 
-@Repository
+@Repository("studentDao")
 public class StudentDaoImpl implements StudentDao {
 
     @Autowired
