@@ -1,0 +1,8 @@
+/media/diennm/Working/dee-projects/open_source/github/spring-hibernate-showcase/spring-hibernate4-standalone-v1/src/main/java/com/dee/web/spring/hbn/standalone/dao/impl/StudentDaoHibernateDaoSupport.java
+/media/diennm/Working/dee-projects/open_source/github/spring-hibernate-showcase/spring-hibernate4-standalone-v1/src/main/java/com/dee/web/spring/hbn/standalone/model/StudentModel.java
+/media/diennm/Working/dee-projects/open_source/github/spring-hibernate-showcase/spring-hibernate4-standalone-v1/src/main/java/com/dee/web/spring/hbn/standalone/controller/StudentController.java
+/media/diennm/Working/dee-projects/open_source/github/spring-hibernate-showcase/spring-hibernate4-standalone-v1/src/main/java/com/dee/web/spring/hbn/standalone/dao/StudentDao.java
+/media/diennm/Working/dee-projects/open_source/github/spring-hibernate-showcase/spring-hibernate4-standalone-v1/src/main/java/com/dee/web/spring/hbn/standalone/dao/impl/StudentDaoImpl.java
+/media/diennm/Working/dee-projects/open_source/github/spring-hibernate-showcase/spring-hibernate4-standalone-v1/src/main/java/com/dee/web/spring/hbn/standalone/dto/Student.java
+/media/diennm/Working/dee-projects/open_source/github/spring-hibernate-showcase/spring-hibernate4-standalone-v1/src/main/java/com/dee/web/spring/hbn/standalone/service/impl/StudentServiceImpl.java
+/media/diennm/Working/dee-projects/open_source/github/spring-hibernate-showcase/spring-hibernate4-standalone-v1/src/main/java/com/dee/web/spring/hbn/standalone/service/StudentService.java

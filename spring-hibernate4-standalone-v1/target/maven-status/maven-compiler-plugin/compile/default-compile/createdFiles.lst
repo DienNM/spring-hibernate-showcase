@@ -1,0 +1,8 @@
+com/dee/web/spring/hbn/standalone/model/StudentModel.class
+com/dee/web/spring/hbn/standalone/dao/impl/StudentDaoHibernateDaoSupport.class
+com/dee/web/spring/hbn/standalone/service/StudentService.class
+com/dee/web/spring/hbn/standalone/dao/impl/StudentDaoImpl.class
+com/dee/web/spring/hbn/standalone/controller/StudentController.class
+com/dee/web/spring/hbn/standalone/service/impl/StudentServiceImpl.class
+com/dee/web/spring/hbn/standalone/dto/Student.class
+com/dee/web/spring/hbn/standalone/dao/StudentDao.class

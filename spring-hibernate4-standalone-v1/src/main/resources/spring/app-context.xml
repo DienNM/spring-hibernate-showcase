@@ -48,6 +48,14 @@
                 <value>com.dee.web.spring.hbn.standalone.model</value>
             </array>
         </property>
+        <!-- <property name="configLocation">
+            <value>hibernate.cfg.xml</value>
+        </property> -->
+        <!-- <property name="mappingResources">
+            <list>
+                <value>../../Entity.hbm.xml</value>
+            </list>
+        </property> -->
     </bean>
 
     <tx:annotation-driven />
